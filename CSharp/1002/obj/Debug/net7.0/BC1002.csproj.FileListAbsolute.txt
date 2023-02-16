@@ -1,0 +1,15 @@
+C:\Users\neiva\Desktop\Eng.Comp\Programação\BeeCrowd\CSharp\1002\bin\Debug\net7.0\BC1002.exe
+C:\Users\neiva\Desktop\Eng.Comp\Programação\BeeCrowd\CSharp\1002\bin\Debug\net7.0\BC1002.deps.json
+C:\Users\neiva\Desktop\Eng.Comp\Programação\BeeCrowd\CSharp\1002\bin\Debug\net7.0\BC1002.runtimeconfig.json
+C:\Users\neiva\Desktop\Eng.Comp\Programação\BeeCrowd\CSharp\1002\bin\Debug\net7.0\BC1002.dll
+C:\Users\neiva\Desktop\Eng.Comp\Programação\BeeCrowd\CSharp\1002\bin\Debug\net7.0\BC1002.pdb
+C:\Users\neiva\Desktop\Eng.Comp\Programação\BeeCrowd\CSharp\1002\obj\Debug\net7.0\BC1002.csproj.AssemblyReference.cache
+C:\Users\neiva\Desktop\Eng.Comp\Programação\BeeCrowd\CSharp\1002\obj\Debug\net7.0\BC1002.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\neiva\Desktop\Eng.Comp\Programação\BeeCrowd\CSharp\1002\obj\Debug\net7.0\BC1002.AssemblyInfoInputs.cache
+C:\Users\neiva\Desktop\Eng.Comp\Programação\BeeCrowd\CSharp\1002\obj\Debug\net7.0\BC1002.AssemblyInfo.cs
+C:\Users\neiva\Desktop\Eng.Comp\Programação\BeeCrowd\CSharp\1002\obj\Debug\net7.0\BC1002.csproj.CoreCompileInputs.cache
+C:\Users\neiva\Desktop\Eng.Comp\Programação\BeeCrowd\CSharp\1002\obj\Debug\net7.0\BC1002.dll
+C:\Users\neiva\Desktop\Eng.Comp\Programação\BeeCrowd\CSharp\1002\obj\Debug\net7.0\refint\BC1002.dll
+C:\Users\neiva\Desktop\Eng.Comp\Programação\BeeCrowd\CSharp\1002\obj\Debug\net7.0\BC1002.pdb
+C:\Users\neiva\Desktop\Eng.Comp\Programação\BeeCrowd\CSharp\1002\obj\Debug\net7.0\BC1002.genruntimeconfig.cache
+C:\Users\neiva\Desktop\Eng.Comp\Programação\BeeCrowd\CSharp\1002\obj\Debug\net7.0\ref\BC1002.dll
