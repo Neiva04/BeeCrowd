@@ -1,0 +1,15 @@
+C:\Users\neiva\Desktop\Eng.Comp\Programação\BeeCrowd\CSharp\2374\bin\Debug\net7.0\2374.exe
+C:\Users\neiva\Desktop\Eng.Comp\Programação\BeeCrowd\CSharp\2374\bin\Debug\net7.0\2374.deps.json
+C:\Users\neiva\Desktop\Eng.Comp\Programação\BeeCrowd\CSharp\2374\bin\Debug\net7.0\2374.runtimeconfig.json
+C:\Users\neiva\Desktop\Eng.Comp\Programação\BeeCrowd\CSharp\2374\bin\Debug\net7.0\2374.dll
+C:\Users\neiva\Desktop\Eng.Comp\Programação\BeeCrowd\CSharp\2374\bin\Debug\net7.0\2374.pdb
+C:\Users\neiva\Desktop\Eng.Comp\Programação\BeeCrowd\CSharp\2374\obj\Debug\net7.0\2374.csproj.AssemblyReference.cache
+C:\Users\neiva\Desktop\Eng.Comp\Programação\BeeCrowd\CSharp\2374\obj\Debug\net7.0\2374.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\neiva\Desktop\Eng.Comp\Programação\BeeCrowd\CSharp\2374\obj\Debug\net7.0\2374.AssemblyInfoInputs.cache
+C:\Users\neiva\Desktop\Eng.Comp\Programação\BeeCrowd\CSharp\2374\obj\Debug\net7.0\2374.AssemblyInfo.cs
+C:\Users\neiva\Desktop\Eng.Comp\Programação\BeeCrowd\CSharp\2374\obj\Debug\net7.0\2374.csproj.CoreCompileInputs.cache
+C:\Users\neiva\Desktop\Eng.Comp\Programação\BeeCrowd\CSharp\2374\obj\Debug\net7.0\2374.dll
+C:\Users\neiva\Desktop\Eng.Comp\Programação\BeeCrowd\CSharp\2374\obj\Debug\net7.0\refint\2374.dll
+C:\Users\neiva\Desktop\Eng.Comp\Programação\BeeCrowd\CSharp\2374\obj\Debug\net7.0\2374.pdb
+C:\Users\neiva\Desktop\Eng.Comp\Programação\BeeCrowd\CSharp\2374\obj\Debug\net7.0\2374.genruntimeconfig.cache
+C:\Users\neiva\Desktop\Eng.Comp\Programação\BeeCrowd\CSharp\2374\obj\Debug\net7.0\ref\2374.dll
